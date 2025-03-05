@@ -14,4 +14,6 @@ A differential amplifier is a fundamental circuit in analog electronics that amp
 =3*10^-3/3.3k
 =0.90mA
 2. Id=Iss/2=0.45mA
+3. Rd=Vdd-Vocm/Id=3.3kohm
+4. Rss=Vp/Iss=777ohm
    
