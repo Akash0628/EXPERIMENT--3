@@ -49,26 +49,29 @@ with MOSFET Length=180nm and Width=7.8um
 
 ### DC Analysis
 
+![Iss DC op](https://github.com/user-attachments/assets/c71a4e82-50a3-4299-a799-cb1c68712996)
 
 ### AC Analysis
 
+![AC output](https://github.com/user-attachments/assets/1da3489d-1c31-44d4-a827-8bfe78eb1b3b)
 
 ### Transient Analysis
 
 
 
-## Replaced Current source and Rd with MOSFET 
+## Replaced Current source with MOSFET 
 
 ### DC Analysis
 
-
+![MC DC op](https://github.com/user-attachments/assets/07951464-da5f-4541-a47c-2cf314a48781)
 
 ### AC Analysis
 
-
+![image](https://github.com/user-attachments/assets/a09cce3b-26ce-4994-9553-d9c959e6cee8)
 
 ### Transient Analysis
 
+![Mc Transient op](https://github.com/user-attachments/assets/ab730dce-7720-4276-abfa-5adb0605921a)
 
 ## Inference 
 * The Id depends on Vb or Vincm value.
