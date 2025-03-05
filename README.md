@@ -33,8 +33,57 @@ A differential amplifier is a fundamental circuit in analog electronics that amp
 
 ### DC Analysis
 with MOSFET Length=180nm and Width=7.8um
+
 ![dc output](https://github.com/user-attachments/assets/e70dbc15-245d-4f99-a311-49f103d2bb5b)
 
 ### AC Analysis
+
+![AC output](https://github.com/user-attachments/assets/2504d1db-f47c-4997-8ec1-ccd072471917)
+
+### Transient analysis
+
+![transient output](https://github.com/user-attachments/assets/a2e796a2-f1fb-443f-9aa5-924ab7f3792a)
+
+## Replaced Rss with a Current Source(0.90mA)
+
+### DC Analysis
+
+
+### AC Analysis
+
+
+### Transient Analysis
+
+
+
+## Replaced Current source and Rd with MOSFET 
+
+### DC Analysis
+
+
+
+### AC Analysis
+
+
+
+### Transient Analysis
+
+
+## Inference 
+* The Id depends on Vb or Vincm value.
+* If Vincm increases that side Id will decreases and vout will increase.
+* Iss always in constant.
+* High CMRR value indicayes effective common mode noise rejection.
+* Resistor mismatch affects the gain stability and reduces CMRR.
+* To act as amplifeir, biasing ensures symmetrical.
+
+## Final Conclusion
+* Amplifies the difference between inputs while rejecting common-mode signals.
+* Demonstrates a high CMRR when resistors are well-matched.
+* Shows expected gain values, validating theoretical calculations.
+* Exhibits some practical limitations, like resistor mismatch and power supply sensitivity.
+
+
+
 
 !(https://github.com/user-attachments/assets/5e610a88-f0c0-4db8-ae69-9599f11d691d)
