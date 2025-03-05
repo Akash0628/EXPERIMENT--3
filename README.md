@@ -47,6 +47,8 @@ with MOSFET Length=180nm and Width=7.8um
 
 ## Replaced Rss with a Current Source(0.90mA)
 
+![Iss ckt](https://github.com/user-attachments/assets/a333674e-1936-4369-a590-f48cb84489e1)
+
 ### DC Analysis
 
 ![Iss DC op](https://github.com/user-attachments/assets/c71a4e82-50a3-4299-a799-cb1c68712996)
@@ -57,9 +59,12 @@ with MOSFET Length=180nm and Width=7.8um
 
 ### Transient Analysis
 
+![image](https://github.com/user-attachments/assets/90c50d5c-6473-4ca1-b9fb-c29e652534e8)
 
 
 ## Replaced Current source with MOSFET(Length=180nm, Width=17.8um) 
+
+![MC ckt](https://github.com/user-attachments/assets/8d373775-86dd-42b1-80e5-1a60739753bb)
 
 ### DC Analysis
 
