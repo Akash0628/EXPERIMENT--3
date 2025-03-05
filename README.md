@@ -74,7 +74,7 @@ with MOSFET Length=180nm and Width=7.8um
 * The Id depends on Vb or Vincm value.
 * If Vincm increases that side Id will decreases and vout will increase.
 * Iss always in constant.
-* High CMRR value indicayes effective common mode noise rejection.
+* High CMRR value indicates effective common mode noise rejection.
 * Resistor mismatch affects the gain stability and reduces CMRR.
 * To act as amplifeir, biasing ensures symmetrical.
 
