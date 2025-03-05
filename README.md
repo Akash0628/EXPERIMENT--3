@@ -9,3 +9,7 @@ A differential amplifier is a fundamental circuit in analog electronics that amp
 * Vocm=1.81v
 * Vp=0.7v
 
+### Extracting parameters from the given values are:-
+Iss=P/Vdd
+=3*10^-3/3.3k
+=0.90mA
