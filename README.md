@@ -59,7 +59,7 @@ with MOSFET Length=180nm and Width=7.8um
 
 
 
-## Replaced Current source with MOSFET 
+## Replaced Current source with MOSFET(Length=180nm, Width=17.8um) 
 
 ### DC Analysis
 
