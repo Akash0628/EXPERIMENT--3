@@ -82,8 +82,3 @@ with MOSFET Length=180nm and Width=7.8um
 * Demonstrates a high CMRR when resistors are well-matched.
 * Shows expected gain values, validating theoretical calculations.
 * Exhibits some practical limitations, like resistor mismatch and power supply sensitivity.
-
-
-
-
-!(https://github.com/user-attachments/assets/5e610a88-f0c0-4db8-ae69-9599f11d691d)
