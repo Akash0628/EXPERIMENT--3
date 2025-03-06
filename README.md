@@ -78,6 +78,22 @@ with MOSFET Length=180nm and Width=7.8um
 
 ![Mc Transient op](https://github.com/user-attachments/assets/ab730dce-7720-4276-abfa-5adb0605921a)
 
+## Replaced Rd with PMOS MOSFET (Length=180nm & Width=3.65um)
+
+![Mosfet ckt](https://github.com/user-attachments/assets/51a59a17-5459-4bc3-a0e8-0f1f77da78ea)
+
+### DC Analysis
+
+![MOSFET DC](https://github.com/user-attachments/assets/6f13219c-4cd3-4da0-b0ca-04ef036873b4)
+
+### AC Analysis
+
+![image](https://github.com/user-attachments/assets/6bf6a735-e820-4486-9255-39d48a86d342)
+
+### Transient Analysis 
+
+![image](https://github.com/user-attachments/assets/c2853dff-480b-4b8c-9350-c3499972d683)
+
 ## Inference 
 * The Id depends on Vb or Vincm value.
 * If Vincm increases that side Id will decreases and vout will increase.
